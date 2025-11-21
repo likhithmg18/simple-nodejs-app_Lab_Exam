@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: monitorapp
-        image: amansanill/nodejsapp
+        image: likhith189/simple_nodejs
         ports:
         - containerPort: 3000
